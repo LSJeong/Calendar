@@ -66,7 +66,6 @@ public class Prompt {
 
         boolean isLoop = true;
         while (isLoop){
-
             System.out.println("명령(1, 2, 3, h, q)");
             String cmd = scn.next();
             switch (cmd){
