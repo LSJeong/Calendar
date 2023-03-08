@@ -60,8 +60,6 @@ public class Prompt {
         printMenu();
         Scanner scn = new Scanner(System.in);
         Calendar cal = new Calendar();
-
-
         //String cmd = scn.next();
 
         boolean isLoop = true;
